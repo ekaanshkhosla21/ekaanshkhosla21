@@ -5,10 +5,10 @@ I’ve completed my Master’s in Data Science and specialize in applying machin
 ## 🔍 What I work on:
 
 - 📈 Predictive Modeling & Machine Learning  
-- 🧮 Statistical Analysis & A/B Testing  
 - 📉 Time-Series Forecasting  
 - 🧹 Data Cleaning & Feature Engineering  
-- 📊 Business Intelligence & Dashboards  
+- 📊 Business Intelligence & Dashboards
+- 🧮 Statistical Analysis & A/B Testing
 
 ## 💻 My tech stack includes:
 
